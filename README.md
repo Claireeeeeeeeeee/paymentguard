@@ -208,11 +208,11 @@ Synthetic Merchant 023 achieved 106.7% volume growth and approximately £957,489
 - Use merchant categories to prioritise commercial and risk interventions.
 - Evaluate fraud controls against both loss reduction and false-positive impact.
 
-Detailed findings are available in [`reports/business_findings.md`](reports/business_findings.md).
+Detailed findings are available in [reports/business_findings.md](reports/business_findings.md).
 
 ## Project Structure
 
-
+```text
 paymentguard/
 ├── data/
 │   ├── raw/
@@ -257,38 +257,47 @@ paymentguard/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
 
 ## Running the Project
 
 Install the Python dependencies:
 
 
+```bash
 pip install -r requirements.txt
+```
 
 
 Generate the datasets in order:
 
 
+```bash
 python python/generate_merchants.py
 python python/generate_customers.py
 python python/generate_payments.py
 python python/generate_disputes.py
+```
 
 
 Run the SQL scripts in MySQL Workbench in numerical order:
 
 
+```text
 01_create_database.sql
 02_create_tables.sql
 03_load_data.sql
 04_create_analytics_views.sql
 05_business_analysis.sql
+```
 
 
 Then open the packaged Tableau workbook:
 
 
+```text
 dashboard/PaymentGuard_Dashboard_v9_Packaged.twbx
+```
 
 
 ## Limitations
