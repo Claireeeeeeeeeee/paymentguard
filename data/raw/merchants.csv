@@ -1,0 +1,101 @@
+merchant_id,merchant_name,industry,merchant_country,onboarding_date,merchant_size,risk_category,platform_type,reserve_rate,expected_monthly_volume
+M00001,Synthetic Merchant 001,Fashion,IT,2021-01-03,Small,Medium,Direct,0.069,39251.29
+M00002,Synthetic Merchant 002,Fashion,IT,2023-12-07,Small,Low,Direct,0.0285,33973.93
+M00003,Synthetic Merchant 003,Digital Products,CA,2024-06-10,Small,Medium,Direct,0.0631,33424.9
+M00004,Synthetic Merchant 004,Fashion,US,2023-10-17,Small,High,Marketplace,0.1323,13758.74
+M00005,Synthetic Merchant 005,Digital Products,NL,2024-08-12,Small,Medium,Direct,0.0687,19662.14
+M00006,Synthetic Merchant 006,Subscription Software,AU,2021-11-07,Small,Low,Subscription,0.0126,26406.72
+M00007,Synthetic Merchant 007,Travel,FR,2023-02-24,Medium,High,Marketplace,0.095,424516.91
+M00008,Synthetic Merchant 008,Subscription Software,NL,2024-01-10,Small,Low,Subscription,0.0236,11288.86
+M00009,Synthetic Merchant 009,Ticketing,US,2022-05-11,Small,High,Direct,0.1325,25651.21
+M00010,Synthetic Merchant 010,Subscription Software,IE,2022-11-05,Small,Low,Subscription,0.0234,26199.33
+M00011,Synthetic Merchant 011,Ticketing,IE,2020-06-14,Medium,High,Direct,0.0943,63868.03
+M00012,Synthetic Merchant 012,Food Delivery,DE,2022-03-08,Small,Low,Marketplace,0.0147,7623.62
+M00013,Synthetic Merchant 013,Ticketing,FR,2022-07-11,Small,High,Direct,0.1231,23287.41
+M00014,Synthetic Merchant 014,Ticketing,NL,2024-01-27,Small,Medium,Direct,0.0589,25784.48
+M00015,Synthetic Merchant 015,Subscription Software,US,2022-06-27,Small,Low,Subscription,0.0189,22145.96
+M00016,Synthetic Merchant 016,Subscription Software,FR,2021-07-04,Medium,Low,Subscription,0.0118,103102.66
+M00017,Synthetic Merchant 017,Digital Products,AU,2023-10-28,Enterprise,High,Direct,0.1323,3726005.85
+M00018,Synthetic Merchant 018,Marketplace,IT,2022-03-31,Small,Low,Marketplace,0.0281,25509.93
+M00019,Synthetic Merchant 019,Subscription Software,FR,2022-09-26,Small,Low,Subscription,0.0271,39133.38
+M00020,Synthetic Merchant 020,Electronics,NL,2023-08-07,Small,High,Direct,0.122,8799.99
+M00021,Synthetic Merchant 021,Subscription Software,NL,2020-12-09,Small,Low,Subscription,0.0129,9653.13
+M00022,Synthetic Merchant 022,Travel,US,2022-12-09,Small,High,Direct,0.0977,31591.2
+M00023,Synthetic Merchant 023,Travel,GB,2020-04-28,Enterprise,High,Marketplace,0.1089,2708181.47
+M00024,Synthetic Merchant 024,Fashion,NL,2024-09-09,Small,Low,Direct,0.0166,28430.26
+M00025,Synthetic Merchant 025,Ticketing,NL,2022-09-18,Small,High,Marketplace,0.1143,9885.91
+M00026,Synthetic Merchant 026,Electronics,ES,2023-05-13,Small,High,Direct,0.1315,9848.34
+M00027,Synthetic Merchant 027,Food Delivery,AU,2022-09-26,Small,Low,Direct,0.0266,41371.32
+M00028,Synthetic Merchant 028,Digital Products,AU,2021-08-02,Enterprise,Medium,Direct,0.0402,4712196.07
+M00029,Synthetic Merchant 029,Electronics,US,2020-10-03,Small,High,Subscription,0.1299,45085.66
+M00030,Synthetic Merchant 030,Marketplace,FR,2024-06-20,Small,Low,Marketplace,0.0254,34774.76
+M00031,Synthetic Merchant 031,Digital Products,DE,2020-01-10,Small,High,Direct,0.0893,10524.11
+M00032,Synthetic Merchant 032,Marketplace,GB,2024-02-27,Small,Low,Marketplace,0.022,44355.29
+M00033,Synthetic Merchant 033,Fashion,US,2022-07-01,Small,Medium,Subscription,0.0358,5627.13
+M00034,Synthetic Merchant 034,Gaming,US,2021-02-23,Small,High,Direct,0.1105,36241.81
+M00035,Synthetic Merchant 035,Subscription Software,IE,2020-02-15,Small,Medium,Subscription,0.0596,10897.6
+M00036,Synthetic Merchant 036,Subscription Software,NL,2020-08-14,Enterprise,Low,Subscription,0.016,2698628.2
+M00037,Synthetic Merchant 037,Gaming,ES,2022-06-30,Enterprise,Medium,Subscription,0.0522,3352888.0
+M00038,Synthetic Merchant 038,Fashion,CA,2020-07-12,Small,Low,Subscription,0.0219,46986.04
+M00039,Synthetic Merchant 039,Subscription Software,CA,2024-03-27,Small,Medium,Subscription,0.0344,42324.29
+M00040,Synthetic Merchant 040,Fashion,FR,2023-12-26,Small,Low,Direct,0.0274,32139.82
+M00041,Synthetic Merchant 041,Travel,NL,2024-10-24,Small,High,Direct,0.1063,16152.78
+M00042,Synthetic Merchant 042,Ticketing,FR,2021-03-08,Medium,High,Direct,0.0753,317495.15
+M00043,Synthetic Merchant 043,Digital Products,US,2024-07-30,Medium,High,Direct,0.0832,178124.04
+M00044,Synthetic Merchant 044,Marketplace,IE,2020-10-07,Small,Low,Marketplace,0.0111,12858.87
+M00045,Synthetic Merchant 045,Ticketing,GB,2024-02-22,Small,High,Direct,0.1104,44375.22
+M00046,Synthetic Merchant 046,Travel,IT,2024-04-04,Small,Medium,Direct,0.04,30705.47
+M00047,Synthetic Merchant 047,Marketplace,NL,2024-08-18,Small,Low,Marketplace,0.012,42505.63
+M00048,Synthetic Merchant 048,Gaming,US,2020-04-04,Enterprise,Medium,Marketplace,0.0661,4908068.06
+M00049,Synthetic Merchant 049,Travel,CA,2023-09-12,Medium,High,Marketplace,0.1129,281400.29
+M00050,Synthetic Merchant 050,Electronics,AU,2024-04-15,Small,High,Direct,0.0913,11289.58
+M00051,Synthetic Merchant 051,Digital Products,NL,2022-07-11,Small,Medium,Direct,0.0431,22075.88
+M00052,Synthetic Merchant 052,Digital Products,US,2023-06-06,Small,High,Subscription,0.1085,19776.25
+M00053,Synthetic Merchant 053,Gaming,IE,2022-10-07,Medium,High,Marketplace,0.1206,179670.03
+M00054,Synthetic Merchant 054,Gaming,US,2023-09-04,Small,High,Marketplace,0.0806,32647.09
+M00055,Synthetic Merchant 055,Food Delivery,GB,2023-08-14,Medium,Low,Subscription,0.0292,410397.88
+M00056,Synthetic Merchant 056,Electronics,NL,2022-12-20,Medium,High,Subscription,0.0903,315534.15
+M00057,Synthetic Merchant 057,Fashion,GB,2020-01-15,Medium,Low,Direct,0.0193,285184.3
+M00058,Synthetic Merchant 058,Food Delivery,IT,2023-10-27,Medium,Low,Direct,0.0286,103880.11
+M00059,Synthetic Merchant 059,Ticketing,US,2024-08-10,Small,High,Direct,0.1237,20013.7
+M00060,Synthetic Merchant 060,Subscription Software,IT,2024-06-29,Medium,Low,Subscription,0.0173,191497.99
+M00061,Synthetic Merchant 061,Travel,US,2023-09-09,Small,High,Direct,0.1284,29884.69
+M00062,Synthetic Merchant 062,Digital Products,AU,2024-09-06,Medium,High,Direct,0.1489,372992.11
+M00063,Synthetic Merchant 063,Ticketing,AU,2020-08-12,Small,High,Direct,0.1171,35874.34
+M00064,Synthetic Merchant 064,Electronics,IE,2020-01-23,Small,High,Direct,0.1067,24904.14
+M00065,Synthetic Merchant 065,Fashion,DE,2021-12-15,Enterprise,Medium,Direct,0.0652,1777587.97
+M00066,Synthetic Merchant 066,Marketplace,IT,2024-03-09,Small,High,Marketplace,0.1233,34255.63
+M00067,Synthetic Merchant 067,Food Delivery,GB,2022-04-08,Medium,Low,Direct,0.0255,139191.9
+M00068,Synthetic Merchant 068,Electronics,GB,2024-07-21,Medium,Medium,Direct,0.0321,322666.33
+M00069,Synthetic Merchant 069,Marketplace,CA,2021-03-23,Small,Medium,Marketplace,0.062,46750.79
+M00070,Synthetic Merchant 070,Fashion,US,2023-11-11,Medium,Medium,Direct,0.0381,106215.66
+M00071,Synthetic Merchant 071,Subscription Software,IE,2020-06-06,Medium,Low,Subscription,0.0131,380579.49
+M00072,Synthetic Merchant 072,Ticketing,GB,2020-12-18,Small,High,Subscription,0.1189,7452.51
+M00073,Synthetic Merchant 073,Fashion,ES,2022-01-21,Small,Medium,Direct,0.0337,13259.0
+M00074,Synthetic Merchant 074,Electronics,DE,2024-11-25,Small,High,Direct,0.1158,11530.86
+M00075,Synthetic Merchant 075,Travel,AU,2021-04-15,Small,High,Direct,0.1452,11679.75
+M00076,Synthetic Merchant 076,Food Delivery,NL,2022-07-17,Small,Low,Direct,0.0127,17513.4
+M00077,Synthetic Merchant 077,Fashion,DE,2024-11-09,Small,Low,Direct,0.0182,14793.28
+M00078,Synthetic Merchant 078,Digital Products,AU,2022-12-10,Small,Medium,Direct,0.049,15151.68
+M00079,Synthetic Merchant 079,Fashion,IE,2022-12-08,Small,Medium,Direct,0.0426,40434.45
+M00080,Synthetic Merchant 080,Food Delivery,DE,2022-09-30,Small,Low,Direct,0.0203,38151.76
+M00081,Synthetic Merchant 081,Food Delivery,CA,2021-05-06,Enterprise,Low,Direct,0.0163,4268220.63
+M00082,Synthetic Merchant 082,Ticketing,DE,2022-06-21,Small,Medium,Marketplace,0.0322,17627.51
+M00083,Synthetic Merchant 083,Food Delivery,DE,2024-07-07,Small,Low,Direct,0.0265,43544.66
+M00084,Synthetic Merchant 084,Fashion,NL,2021-11-11,Small,Low,Direct,0.0173,48129.31
+M00085,Synthetic Merchant 085,Fashion,AU,2020-09-20,Medium,Low,Direct,0.0178,338399.89
+M00086,Synthetic Merchant 086,Subscription Software,DE,2020-01-20,Small,Low,Subscription,0.0133,12465.81
+M00087,Synthetic Merchant 087,Digital Products,CA,2024-01-04,Enterprise,High,Marketplace,0.0813,2517105.26
+M00088,Synthetic Merchant 088,Marketplace,CA,2021-12-18,Small,Medium,Marketplace,0.0474,26119.71
+M00089,Synthetic Merchant 089,Marketplace,US,2024-09-14,Small,Medium,Marketplace,0.0393,18142.67
+M00090,Synthetic Merchant 090,Fashion,US,2022-06-14,Small,Low,Direct,0.0149,42961.48
+M00091,Synthetic Merchant 091,Ticketing,ES,2023-01-26,Medium,High,Marketplace,0.0993,292787.35
+M00092,Synthetic Merchant 092,Fashion,CA,2021-09-10,Medium,Low,Marketplace,0.027,277156.17
+M00093,Synthetic Merchant 093,Digital Products,AU,2022-11-30,Small,High,Direct,0.1125,9724.09
+M00094,Synthetic Merchant 094,Gaming,GB,2021-12-29,Enterprise,High,Direct,0.0971,1362213.54
+M00095,Synthetic Merchant 095,Travel,GB,2020-09-17,Enterprise,High,Direct,0.0706,1751099.48
+M00096,Synthetic Merchant 096,Food Delivery,US,2023-07-08,Medium,High,Direct,0.1082,392644.65
+M00097,Synthetic Merchant 097,Food Delivery,AU,2022-04-21,Medium,High,Marketplace,0.0791,379586.08
+M00098,Synthetic Merchant 098,Ticketing,CA,2022-03-15,Small,High,Subscription,0.1488,17970.27
+M00099,Synthetic Merchant 099,Ticketing,IT,2021-06-28,Medium,High,Direct,0.1322,270364.88
+M00100,Synthetic Merchant 100,Fashion,CA,2024-12-05,Small,High,Direct,0.1335,8816.87

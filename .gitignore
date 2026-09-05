@@ -1,0 +1,20 @@
+# Python environment and cache
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
+**/.DS_Store
+
+# Local configuration
+.env
+
+# Tableau recovery and old workbook versions
+dashboard/*.twb
+dashboard/*.twbr
+dashboard/*.twbx
+
+# Keep only the final packaged workbook
+!dashboard/PaymentGuard_Dashboard_v9_Packaged.twbx
